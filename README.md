@@ -1,1 +1,3 @@
-# lyon-0320-wild-project
+# wild-project
+Comment installer ce projet ?
+Il suffit, pour le moment, de le cloner.
